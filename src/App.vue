@@ -6,7 +6,7 @@ import QueryAction from './components/QueryAction.vue'
 <template>
   <div>
     <a href="https://duckdb.org/" target="_blank">
-      <img src="/duckDB.png" class="logo" alt="DuckDB logo" />
+      <img src="/DuckDB.svg" class="logo" alt="DuckDB logo" />
     </a>
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
